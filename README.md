@@ -5,6 +5,7 @@
 > **在此，我们和律师发起了 Defend Open Source，Defend Spug 项目，让更多人了解开源软件，捍卫开源软件，捍卫Spug！**
 
 **Defend Spug ⭐Follow UP**：https://github.com/defend-open-source/defend-spug
+
 **Spug 项目⭐Follow UP**：https://github.com/openspug/spug
 
 ## 老男孩教育侵权
@@ -69,6 +70,7 @@ Spug拥有八大核心功能，Hippo对Spug的核心功能进行了换皮。
 > **在此，我们和律师发起了 Defend Open Source，Defend Spug 项目，让更多人了解开源软件，捍卫开源软件，捍卫Spug！**
 
 **Defend Spug ⭐Follow UP**：https://github.com/defend-open-source/defend-spug
+
 **Spug 项目⭐Follow UP**：https://github.com/openspug/spug
 
 ![](https://cdn.jsdelivr.net/gh/filess/img9@main/2021/03/03/1614763970694-1d4367e9-9129-4fcf-81a2-e1c7dc9660d3.png)
