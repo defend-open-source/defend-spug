@@ -16,7 +16,7 @@
 
 ## 关于Spug
 
-Spug项目是在2017年开发完成，并于2018年2月份在Github(https://github.com/openspug/spug)发布，项目是面向中小型企业设计的轻量级无Agent的自动化运维平台。项目功能也是根据我们多年运维经验中提炼出来的，项目开源的目的也是为了帮助中小企业完成自动化的运维，提高中小企业运维工作效率。Spug目前在Github上已经累计Star数5.5k，在2020年荣获Gitee最有价值的开源项目。
+Spug项目是在2017年开发完成，并于2018年2月份在Github(https://github.com/openspug/spug) 发布，项目是面向中小型企业设计的轻量级无Agent的自动化运维平台。项目功能也是根据我们多年运维经验中提炼出来的，项目开源的目的也是为了帮助中小企业完成自动化的运维，提高中小企业运维工作效率。Spug目前在Github上已经累计Star数5.5k，在2020年荣获Gitee最有价值的开源项目。
 
 ![](https://cdn.jsdelivr.net/gh/filess/img17@main/2021/03/03/1614766949653-1bdaf9a0-8b0a-4853-89e3-956f02b453c8.png)
 
